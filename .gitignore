@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# personal data - never commit
+data/jobs.db
+data/master_profile.md
+exports/

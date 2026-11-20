@@ -1,0 +1,15 @@
+Junior AI / Data Engineer
+
+We are looking for a Junior AI Engineer to join our product team. You will build
+and ship machine learning features and internal tools.
+
+Requirements:
+- Strong Python and SQL skills
+- Experience with FastAPI or Flask to build REST APIs
+- Familiarity with Docker and Git; CI/CD is a plus
+- Hands-on with LLMs, LangChain and prompt engineering
+- Experience with PostgreSQL or MongoDB
+- Knowledge of AWS or Azure
+- Good communication and teamwork skills
+
+Nice to have: Kubernetes, Airflow, model context protocol (MCP), agile workflows.
